@@ -15,9 +15,15 @@ STATISTICS Your Computer needs atleast 4GB of RAM and A Radeon Graphics card wit
 7. If you are using EthMiner then replace the code in start.bat with this, **ethminer.exe -G -F http://eth-eu.dwarfpool.com:80/465KV5FQKR7iPy7LyMkSsUKBCbv94gQP8EBVZNYmtLdxMuJ1VVbrGAkKHYkXiNVcHyhFGKAnNM1m4NQL1jCHqGzsBrqDtaa**
 
 8.*AGAIN, MAKE SURE YOU HAVE SENT ME YOUR WALLET ADDRESS ON THE DISCORD CHANNEL https://discord.gg/CVGH62B FOR THE CRYPTO CURRENCY YOUR MINING AND SEND PROOF OR YOU WILL NOT GET PAYED!*
+
 Link to Monero Wallet - MyMonero.com
+
 Link to Etherium Wallet - MyEtherWallet.com
+
 Here is a link to how bitcoin and cryptocurrencys work - https://www.youtube.com/watch?v=kubGCSj5y3k
+
 Here is a link to Building the best computer for a Etherium or Monero Mining - https://www.youtube.com/watch?v=y5igBuO4I3A
+
 Here is a link for a ETHMINER Tutorial https://www.youtube.com/watch?v=AXY7Z3rMNkU
+
 **DOWNLOADS ARE IN PROJECT FOLDER**
