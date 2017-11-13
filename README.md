@@ -26,4 +26,6 @@ Here is a link to Building the best computer for a Etherium or Monero Mining - h
 
 Here is a link for a ETHMINER Tutorial https://www.youtube.com/watch?v=AXY7Z3rMNkU
 
-**DOWNLOADS ARE IN GETTING STARTED FOLDER**
+Here is a linkt to installing GETH AND ETH - https://ethereum.org/cli
+
+**OTHER DOWNLOADS ARE IN GETTING STARTED FOLDER**
