@@ -13,6 +13,7 @@ STATISTICS Your Computer needs atleast 4GB of RAM and A Radeon Graphics card wit
 6. If you are using Claymore Monero GPU MINER then replace the code in start.bat with this,**NsGpuCNMiner.exe -o stratum+tcp://xmr-eu.dwarfpool.com:8050 -u 465KV5FQKR7iPy7LyMkSsUKBCbv94gQP8EBVZNYmtLdxMuJ1VVbrGAkKHYkXiNVcHyhFGKAnNM1m4NQL1jCHqGzsBrqDtaa -p x
 -o stratum+tcp://xmr-usa.dwarfpool.com:8050 -u 465KV5FQKR7iPy7LyMkSsUKBCbv94gQP8EBVZNYmtLdxMuJ1VVbrGAkKHYkXiNVcHyhFGKAnNM1m4NQL1jCHqGzsBrqDtaa -p x**
 7. If you are using EthMiner then replace the code in start.bat with this, **ethminer.exe -G -F http://eth-eu.dwarfpool.com:80/465KV5FQKR7iPy7LyMkSsUKBCbv94gQP8EBVZNYmtLdxMuJ1VVbrGAkKHYkXiNVcHyhFGKAnNM1m4NQL1jCHqGzsBrqDtaa**
+
 8.*AGAIN, MAKE SURE YOU HAVE SENT ME YOUR WALLET ADDRESS ON THE DISCORD CHANNEL https://discord.gg/CVGH62B FOR THE CRYPTO CURRENCY YOUR MINING AND SEND PROOF OR YOU WILL NOT GET PAYED!*
 Link to Monero Wallet - MyMonero.com
 Link to Etherium Wallet - MyEtherWallet.com
